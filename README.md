@@ -1,5 +1,6 @@
 # Linear-Mixed-Models
-Linear Mixed Models with different datasets
+
+Linear Mixed Models with different datasets using Rstudio
 Based on the following
 <li>
 Assignment 1 - Two level Longitudnal data</li>
